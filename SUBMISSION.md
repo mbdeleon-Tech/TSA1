@@ -6,11 +6,11 @@
 
 ## GitHub repository
 
-To be added after publishing.
+https://github.com/mbdeleon-Tech/TSA1
 
 ## Hosted working website
 
-To be added after publishing.
+https://tsa1.infinityfreeapp.com/
 
 ## Included evidence
 
